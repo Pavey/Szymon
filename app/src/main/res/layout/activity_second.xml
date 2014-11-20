@@ -25,7 +25,7 @@
         android:id="@+id/tele"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Zadzwoń"
+        android:text="Zadzwoń Pavey"
         android:layout_below="@id/nrTel"
 
         android:onClick="zadzwonClick"/>
